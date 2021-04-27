@@ -1,0 +1,19 @@
+
+
+
+Karthik
+
+
+cd ""
+git init
+git remote add origin https://github.com/karthik-strikes/sasir.git
+git remote -v
+git add .
+git push
+git push origin master
+git branch
+git branch --list
+git checkout alpha
+git checkout -b alphabet
+git commit -m "second commityt678g8"
+git remote set-url origin git@github.com:karthik-strikes/sasir1.git
